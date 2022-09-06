@@ -1,0 +1,21 @@
+html {
+    font-family: 'Inter', sans-serif;
+    background-color: #E5E5E5;
+
+}
+hr{
+    margin: 0;
+}
+h3{
+    text-transform: capitalize;
+    margin: 0;
+}
+ul{
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    text-transform: uppercase;
+}
