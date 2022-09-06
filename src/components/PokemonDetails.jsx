@@ -21,8 +21,6 @@ const PokemonDetails = () => {
 
   }, [])
 
-  console.log(pokeInfo)
-
   return (
     <section >
       <Header />

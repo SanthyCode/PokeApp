@@ -12,6 +12,9 @@ body {
     align-items: center;
 }
 
+.img-Home{
+    max-width: 80%;
+}
 
 /* Style from Pokemon Header */
 .up-header {

@@ -23,7 +23,7 @@ const Home = () => {
 
   return (
     <div className='home'>
-      <img src="/image/pokedex.png" alt="" />
+      <img className='img-Home' src="/image/pokedex.png" alt="" />
       <h1>Hi Trainer!</h1>
       <p>To Start give me your trainer name</p>
       <form onSubmit={handleSubmit}>
